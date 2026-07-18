@@ -40,7 +40,7 @@ manifest() {
       bin: [[ $exe, $alias ]],
       checkver: { github: $repo },
       autoupdate: { architecture: { "64bit": { url: $auto } } }
-    }' > "bucket/${name}.json"
+    }' >"bucket/${name}.json"
   echo "bucket/${name}.json ← ${tag}"
 }
 
