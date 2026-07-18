@@ -1,12 +1,12 @@
 {
-  "version": "0.7.4",
+  "version": "0.7.6",
   "description": "Match instants against isnow date/time patterns",
   "homepage": "https://tsvsheet.com",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/tsvsheet/isnow.go/releases/download/v0.7.4/isnow-0.7.4-windows-amd64.zip",
-      "hash": "43e8c105afee84ec304d1b7556a9d204d6b8653d65f3c4a53054526a11da3625"
+      "url": "https://github.com/tsvsheet/isnow.go/releases/download/v0.7.6/isnow-0.7.6-windows-amd64.zip",
+      "hash": "0376c820ccfecc94e7f8734cde85ebb5aa745fd9120e99c631111158e3be6614"
     }
   },
   "bin": [
