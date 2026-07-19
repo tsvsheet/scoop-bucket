@@ -46,3 +46,4 @@ manifest() {
 
 manifest tsv tsvsheet.go "Spreadsheet for plain text — compute .tsvt grids of values and =formulas"
 manifest isnow isnow.go "Match instants against isnow date/time patterns"
+manifest tq tq.go "Query TSV with a pipeline of relational verbs — the tq query language"
