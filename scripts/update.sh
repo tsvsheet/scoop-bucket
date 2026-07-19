@@ -44,5 +44,5 @@ manifest() {
   echo "bucket/${name}.json ← ${tag}"
 }
 
-manifest tsvsheet tsvsheet.go "Spreadsheet for plain text — compute .tsvt grids of values and =formulas"
+manifest tsv tsvsheet.go "Spreadsheet for plain text — compute .tsvt grids of values and =formulas"
 manifest isnow isnow.go "Match instants against isnow date/time patterns"
