@@ -4,7 +4,7 @@ The [Scoop](https://scoop.sh) bucket for the [tsvsheet](https://tsvsheet.com) CL
 
 ```powershell
 scoop bucket add tsvsheet https://github.com/tsvsheet/scoop-bucket
-scoop install tsvsheet   # a spreadsheet for plain text
+scoop install tsvsheet   # a spreadsheet in plain text
 scoop install isnow      # match instants against isnow date/time patterns
 ```
 
