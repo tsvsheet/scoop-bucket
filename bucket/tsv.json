@@ -1,12 +1,12 @@
 {
-  "version": "0.10.3",
+  "version": "0.11.1",
   "description": "Spreadsheet for plain text — compute .tsvt grids of values and =formulas",
   "homepage": "https://tsvsheet.com",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/tsvsheet/tsvsheet.go/releases/download/v0.10.3/tsv-0.10.3-windows-amd64.zip",
-      "hash": "c37edbaaba4742a85e4d592a80dbce6eb58ff3cba7372b764305f2e77073301e"
+      "url": "https://github.com/tsvsheet/tsvsheet.go/releases/download/v0.11.1/tsv-0.11.1-windows-amd64.zip",
+      "hash": "40af9453976f2b7d0a34e887cd398d466c44047a13357275e467a4f971ff9426"
     }
   },
   "bin": [
