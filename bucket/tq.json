@@ -1,12 +1,12 @@
 {
-  "version": "0.2.10",
+  "version": "0.3.0",
   "description": "Query TSV with a pipeline of relational verbs — the tq query language",
   "homepage": "https://tsvsheet.com",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/tsvsheet/tq.go/releases/download/v0.2.10/tq-0.2.10-windows-amd64.zip",
-      "hash": "774921a594d5e2d38167d9d9859dbfc008ea5d41bdc026656c9f361c5da458c0"
+      "url": "https://github.com/tsvsheet/tq.go/releases/download/v0.3.0/tq-0.3.0-windows-amd64.zip",
+      "hash": "c5b786b70c8240ebb62cc7a575d8cf8bcb06a8a74c091a8ca4a4cf1d78d19422"
     }
   },
   "bin": [
